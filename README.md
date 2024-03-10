@@ -30,9 +30,7 @@ Hit Enter
 
 
 ## Query section for the user 
-[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1Fg44H53bEAR_IZM-FN3uHUqZmrr_y2C0?usp=sharing)
-### Query Dataset
-[Query Dataset](https://github.com/D-Yuva/PulseGuard/files/14549344/Disease.precaution.csv)
+[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1Fg44H53bEAR_IZM-FN3uHUqZmrr_y2C0?usp=sharing), [Query Dataset](https://github.com/D-Yuva/PulseGuard/files/14549344/Disease.precaution.csv)
 
 ## Query Front end 
 Process to access the website: 
