@@ -10,7 +10,11 @@ A machine learning model utilising neural networks to predict the presence of lu
 ### Cardiovascular Dataset
 [Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
 ### Front end 
+[Cardiovascular Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
 
+[Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1kB_WbIiIvSP3cwCuF8mpHTpv7O4npU5s?usp=sharing)
+
+[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing)
 
 
 ## Lung Cancer 
