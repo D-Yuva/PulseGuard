@@ -8,7 +8,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 ## Cardiovascular Predictive model
 [Cardiovascular Google Collab Link (Backend only)](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing), [Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
 
-## Front end 
+## Cardiovascular Front end 
 Process to access the website: 
 Run the whole code\n 
 In the last cell, click on the last link ("your url is: ") 
@@ -20,7 +20,7 @@ Hit Enter
 [Lung Cancer Google Collab Link (Backend only)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing), 
 [Lung_Cancer_Dataset](https://github.com/D-Yuva/PulseGuard/files/14549340/Lung_Cancer_Dataset.csv)
 
-## Front end 
+## Lung Cancer Front end 
 Process to access the website: 
 Run the whole code\n 
 In the last cell, click on the last link ("your url is: ") 
@@ -34,7 +34,7 @@ Hit Enter
 ### Query Dataset
 [Query Dataset](https://github.com/D-Yuva/PulseGuard/files/14549344/Disease.precaution.csv)
 
-## Front end 
+## Query Front end 
 Process to access the website: 
 Run the whole code\n 
 In the last cell, click on the last link ("your url is: ") 
