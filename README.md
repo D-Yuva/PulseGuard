@@ -14,7 +14,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 
 [Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1kB_WbIiIvSP3cwCuF8mpHTpv7O4npU5s?usp=sharing)
 
-[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing)
+[Query Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing)
 
 
 ## Lung Cancer 
