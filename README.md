@@ -9,8 +9,16 @@ A machine learning model utilising neural networks to predict the presence of lu
 [Cardiovascular Google Collab Link (Backend only)](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)
 ### Cardiovascular Dataset
 [Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
-### Front end 
+## Front end 
+###Process to access the website: 
+Run the whole code
+In the last cell, click on the last link ("your url is: ") 
+The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained
+Hit Enter
+
+
 [Cardiovascular Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
+
 
 [Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1kB_WbIiIvSP3cwCuF8mpHTpv7O4npU5s?usp=sharing)
 
