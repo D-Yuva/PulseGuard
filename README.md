@@ -11,7 +11,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 [Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
 ## Front end 
 ###Process to access the website: 
-Run the whole code
+Run the whole code\n
 In the last cell, click on the last link ("your url is: ") 
 The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained
 Hit Enter
