@@ -1,12 +1,13 @@
 # PulseGuard
 A machine learning model utilising neural networks to predict the presence of lung cancer and the potential heart risks based on diverse sets of medical data. Questions asked to consumers, educates them about the particular concept
 
+[Presentation Link](https://www.canva.com/design/DAF_ArRurGk/nywdj6_OFlOSQk8bIOo5Xg/edit?utm_content=DAF_ArRurGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [Figma Link](https://www.figma.com/file/JJCy02GIzUDjSvV2YRLe2M/PulseGaurd?type=design&node-id=0-1&mode=design&t=vM9kCWltyw9lKp30-0)
 
 # Cardiovascular Predictive model
 [Cardiovascular Google Collab Link (Backend only)](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)
 [Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
-
 
 
 # Lung Cancer 
